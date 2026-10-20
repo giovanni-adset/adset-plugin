@@ -1,0 +1,26 @@
+{
+  "name": "adset",
+  "displayName": "Adset",
+  "description": "Run Adset from Claude: launch Launcher tasks on Meta, Google and AppLovin, run Media Buying and Platform Ops rules and act on their recommendations, and make spot changes to ads — with guided questions and an explicit confirmation before every change.",
+  "author": {
+    "name": "Adset",
+    "email": "giovanni@adset.agency",
+    "url": "https://www.adset.agency"
+  },
+  "homepage": "https://www.adset.agency/docs/claude",
+  "license": "MIT",
+  "icon": "./logo.png",
+  "documentationUrl": "https://www.adset.agency/docs/claude",
+  "supportUrl": "https://www.adset.agency/docs/claude#support",
+  "privacyPolicyUrl": "https://www.adset.agency/privacy#claude",
+  "termsOfServiceUrl": "https://www.adset.agency/terms",
+  "keywords": [
+    "adset",
+    "meta-ads",
+    "google-ads",
+    "applovin",
+    "media-buying",
+    "ad-launch"
+  ],
+  "repository": "https://github.com/giovanni-adset/adset-plugin"
+}

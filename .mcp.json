@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adset": {
+      "type": "http",
+      "url": "https://www.adset.agency/mcp"
+    }
+  }
+}

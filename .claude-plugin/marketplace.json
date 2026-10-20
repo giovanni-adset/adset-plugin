@@ -1,0 +1,15 @@
+{
+  "name": "adset",
+  "description": "Adset's plugin for Claude: launch ads, run media-buying rules and manage Meta, Google and AppLovin campaigns through Adset",
+  "owner": {
+    "name": "Adset",
+    "url": "https://www.adset.agency"
+  },
+  "plugins": [
+    {
+      "name": "adset",
+      "source": "./",
+      "description": "Launch ads from ClickUp, Notion or Google Sheets tasks, run Media Buying and Platform Ops rules, and manage Meta, Google and AppLovin ads from Claude, through the Adset connector"
+    }
+  ]
+}
